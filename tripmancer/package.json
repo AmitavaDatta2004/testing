@@ -48,6 +48,7 @@
     "embla-carousel-react": "^8.6.0",
     "html-to-image": "^1.11.13",
     "html2canvas": "^1.4.1",
+    "input-otp": "^1.4.2",
     "jspdf": "^3.0.1",
     "leaflet": "^1.9.4",
     "lovable-tagger": "^1.1.8",
@@ -61,9 +62,11 @@
     "react-leaflet": "^5.0.0",
     "react-resizable-panels": "^3.0.3",
     "react-router-dom": "^7.6.2",
+    "recharts": "^2.15.4",
     "sonner": "^2.0.5",
     "tailwind-merge": "^3.3.1",
     "tailwindcss": "^4.1.10",
+    "vaul": "^1.1.2",
     "zod": "^3.25.67"
   },
   "devDependencies": {
